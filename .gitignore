@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+cue.mod/pkg/
+cue.mod/usr/

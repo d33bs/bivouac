@@ -1,0 +1,4 @@
+jupyter
+jupyterlab
+jupyterlab_code_formatter
+pandas
